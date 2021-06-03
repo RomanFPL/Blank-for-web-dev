@@ -8,14 +8,22 @@ to copy this stucture write → git clone https://github.com/RomanFPL/Blank-for-
 
 Structure is 
 ───src
+
     ├───assets
+    
     │   ├───css
+    
     │   ├───font
+    
     │   ├───icons
+    
     │   ├───img
+    
     │   └───sass
+    
     └───js
-        └───modules
+    
+    └───modules
       
  All content of assets is moved to dist folder that has the same structure as src folder
  
