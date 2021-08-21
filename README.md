@@ -1,5 +1,5 @@
 # Started build for landing page
-Start  structure for webdev with gulp 4
+⚙️ Start  structure for webdev with gulp 4
 
 comand "gulp" starts creation of folder dist.
 
