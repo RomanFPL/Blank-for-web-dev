@@ -28,7 +28,7 @@ Structure is
       
  All content of assets is moved to dist folder that has the same structure as src folder
  
- Webpack is used to create script.js that is stored in dist folder after modifing by webpack.
+ Webpack is used to create script.js that is stored in dist folder after being modified by webpack.
  Sass|scss is compiled in style.min.css and then stored in src/css and dist/css.
  You should write html without using pug. This is native configuration for html.
  
